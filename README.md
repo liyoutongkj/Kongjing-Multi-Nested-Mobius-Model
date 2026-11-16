@@ -1,4 +1,4 @@
-# Kongjing-Multi-Nested-Mobius-Model
+#空竟论Kongjing-Multi-Nested-Mobius-Model
 The Kongjing Theory: A Geometric Dynamics Engine Based on Multi-Nested Mobius Topology and Frame Refresh Dynamics.
 《空竟论》v3.0 开源首发正本：宇宙底层拓扑与物理大一统
  
