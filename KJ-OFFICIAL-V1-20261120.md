@@ -2,7 +2,7 @@
 
 > **基准版本 KJ-OFFICIAL-V1-20261120**｜发布 2026-11-20｜MIT License
 > 本文是完整长卷宗，供逐条查阅、推导核对与正式引用。
-> 只想看纲领全貌 → [返回 README](./../README.md)
+> 只想看纲领全貌 → [返回 README](https://github.com/liyoutongkj/Kongjing-Multi-Nested-Mobius-Model/blob/main/README.md)
 
 **本卷目录**
 
