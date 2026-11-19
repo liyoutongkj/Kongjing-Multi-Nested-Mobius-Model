@@ -209,7 +209,7 @@ w = U ,    τ_锁 ≡ 2πK / |Δω_ij|²
 
 引用请标注版本标识。本文是理论纲领，不是已确立物理；凡标【待填】者未成立，凡列判据者随时可被证伪。
 
-**完整卷宗** [`doc/kongjing-official-v1-20261120.md`](https://github.com/liyoutongkj/Kongjing-Multi-Nested-Mobius-Model/blob/main/KJ-OFFICIAL-V1-20261120.md
+**完整卷宗** [`kj-official-v1-20261120.md`](https://github.com/liyoutongkj/Kongjing-Multi-Nested-Mobius-Model/blob/main/KJ-OFFICIAL-V1-20261120.md
 
 
 ) — 342 行全文，含逐条推导口径与状态总表。
