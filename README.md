@@ -213,10 +213,10 @@ w = U ,    τ_锁 ≡ 2πK / |Δω_ij|²
 
 常查入口：
 
-- [方程组与公理](./doc/kongjing-official-v1-20261120.md#第六章-方程组与公理)
-- [质量间隙与承重墙 α](./doc/kongjing-official-v1-20261120.md#第四章-质量间隙c_min-与黑洞通道)
-- [靶纸与自毁判据](./doc/kongjing-official-v1-20261120.md#第七章-可证伪靶纸与自毁机制)
-- [本版状态总表（哪些没成立）](./doc/kongjing-official-v1-20261120.md#本版状态总表)
+- [方程组与公理](./kongjing-official-v1-20261120.md#第六章-方程组与公理)
+- [质量间隙与承重墙 α](./kongjing-official-v1-20261120.md#第四章-质量间隙c_min-与黑洞通道)
+- [靶纸与自毁判据](./kongjing-official-v1-20261120.md#第七章-可证伪靶纸与自毁机制)
+- [本版状态总表（哪些没成立）](./kongjing-official-v1-20261120.md#本版状态总表)
 
 ---
 
