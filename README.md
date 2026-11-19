@@ -209,14 +209,29 @@ w = U ,    τ_锁 ≡ 2πK / |Δω_ij|²
 
 引用请标注版本标识。本文是理论纲领，不是已确立物理；凡标【待填】者未成立，凡列判据者随时可被证伪。
 
-**完整卷宗** [`doc/kongjing-official-v1-20261120.md`](./doc/kongjing-official-v1-20261120.md) — 342 行全文，含逐条推导口径与状态总表。
+**完整卷宗** [`doc/kongjing-official-v1-20261120.md`](https://github.com/liyoutongkj/Kongjing-Multi-Nested-Mobius-Model/blob/main/KJ-OFFICIAL-V1-20261120.md
+
+
+) — 342 行全文，含逐条推导口径与状态总表。
 
 常查入口：
 
-- [方程组与公理](./kongjing-official-v1-20261120.md#第六章-方程组与公理)
-- [质量间隙与承重墙 α](./kongjing-official-v1-20261120.md#第四章-质量间隙c_min-与黑洞通道)
-- [靶纸与自毁判据](./kongjing-official-v1-20261120.md#第七章-可证伪靶纸与自毁机制)
-- [本版状态总表（哪些没成立）](./kongjing-official-v1-20261120.md#本版状态总表)
+- [方程组与公理](https://github.com/liyoutongkj/Kongjing-Multi-Nested-Mobius-Model/blob/main/KJ-OFFICIAL-V1-20261120.md
+
+
+#第六章-方程组与公理)
+- [质量间隙与承重墙 α](https://github.com/liyoutongkj/Kongjing-Multi-Nested-Mobius-Model/blob/main/KJ-OFFICIAL-V1-20261120.md
+
+
+#第四章-质量间隙c_min-与黑洞通道)
+- [靶纸与自毁判据](https://github.com/liyoutongkj/Kongjing-Multi-Nested-Mobius-Model/blob/main/KJ-OFFICIAL-V1-20261120.md
+
+
+#第七章-可证伪靶纸与自毁机制)
+- [本版状态总表（哪些没成立）](https://github.com/liyoutongkj/Kongjing-Multi-Nested-Mobius-Model/blob/main/KJ-OFFICIAL-V1-20261120.md
+
+
+#本版状态总表)
 
 ---
 
